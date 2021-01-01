@@ -15,7 +15,7 @@ Join [TeleBot Support group](https://t.me/iamarupmandal) for updates and new plu
 Do fork and star the repo 
 
 ### Session String 
-<a href="https://telebot-sessionstring-generator.xditya.repl.run/" target="_blank"><img src="https://img.shields.io/badge/run-string__session.py-red?style=for-the-badge&logo=repl.it" alt="generate_string" /></a>
+<a href="https://repl.it/@arupmandal/Telebot-String#main.py/" target="_blank"><img src="https://img.shields.io/badge/run-string__session.py-red?style=for-the-badge&logo=repl.it" alt="generate_string" /></a>
 
 ### The Normal Way
 
