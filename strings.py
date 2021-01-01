@@ -4,18 +4,18 @@
 #
 # You should have received a copy of the GNU Affero General Public License along with this program.
 # If not, see <https://github.com/arupmandal/TeleBot>.
+from telethon.sessions import StringSession
+from telethon.sync import TelegramClient
 import os
 
 os.system('pip install --upgrade pip')
 os.system('pip install telethon==1.18.2')
-from telethon.sync import TelegramClient
-from telethon.sessions import StringSession
 
 a = """
- _____    _      _           _   
-|_   _|__| | ___| |__   ___ | |_ 
+ _____    _      _           _
+|_   _|__| | ___| |__   ___ | |_
   | |/ _ \ |/ _ \ '_ \ / _ \| __|
-  | |  __/ |  __/ |_) | (_) | |_ 
+  | |  __/ |  __/ |_) | (_) | |_
   |_|\___|_|\___|_.__/ \___/ \__|
 """
 print(a)
